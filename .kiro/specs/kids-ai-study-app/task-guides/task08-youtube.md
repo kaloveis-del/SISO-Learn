@@ -12,11 +12,11 @@ YouTube 영상을 보면서 쿠키와 함께 학습하는 화면을 구현한다
 
 ## 체크리스트
 
-- [ ] 8.1 `YouTubeService.swift` 구현
-- [ ] 8.2 `YouTubePlayerView.swift` 구현 (WKWebView)
-- [ ] 8.3 `YouTubeLearningView.swift` 구현 (분할 레이아웃)
-- [ ] 8.4 YouTube URL 입력 화면 구현
-- [ ] 8.5 `YouTubeServiceTests.swift` 작성
+- [x] 8.1 `YouTubeService.swift` 구현
+- [x] 8.2 `YouTubePlayerView.swift` 구현 (WKWebView)
+- [x] 8.3 `YouTubeLearningView.swift` 구현 (분할 레이아웃)
+- [x] 8.4 YouTube URL 입력 화면 구현
+- [x] 8.5 `YouTubeServiceTests.swift` 작성
 
 ---
 

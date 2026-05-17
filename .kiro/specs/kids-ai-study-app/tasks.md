@@ -80,12 +80,12 @@
   - [x] 7.10 학습 세션 단위 테스트 작성 (`LearningSessionViewModelTests.swift`)
   - [x] 7.11 학습 흐름 통합 테스트 작성 (`LearningFlowIntegrationTests.swift`)
 
-- [ ] 8. Task 8: YouTube 연계 학습 구현
-  - [ ] 8.1 `YouTubeService.swift` 구현 (extractVideoId, thumbnailURL)
-  - [ ] 8.2 `YouTubePlayerView.swift` 구현 (UIViewRepresentable + WKWebView, 인라인 재생)
-  - [ ] 8.3 `YouTubeLearningView.swift` 구현 (좌측 50% 영상 + 우측 50% 쿠키 패널)
-  - [ ] 8.4 YouTube URL 입력 화면 구현 (URL 입력 → 썸네일 미리보기 → 학습 시작)
-  - [ ] 8.5 `YouTubeService` 단위 테스트 작성 (`YouTubeServiceTests.swift`)
+- [x] 8. Task 8: YouTube 연계 학습 구현
+  - [x] 8.1 `YouTubeService.swift` 구현 (extractVideoId, thumbnailURL)
+  - [x] 8.2 `YouTubePlayerView.swift` 구현 (UIViewRepresentable + WKWebView, 인라인 재생)
+  - [x] 8.3 `YouTubeLearningView.swift` 구현 (좌측 50% 영상 + 우측 50% 쿠키 패널)
+  - [x] 8.4 YouTube URL 입력 화면 구현 (URL 입력 → 썸네일 미리보기 → 학습 시작)
+  - [x] 8.5 `YouTubeService` 단위 테스트 작성 (`YouTubeServiceTests.swift`)
 
 - [ ] 9. Task 9: 학습 진행 현황 (Progress) 구현
   - [ ] 9.1 `FetchAchievementsUseCase.swift` 구현 (세션 목록, 배지, 과목별 통계 조회)
