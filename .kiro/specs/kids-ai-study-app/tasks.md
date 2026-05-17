@@ -87,13 +87,13 @@
   - [x] 8.4 YouTube URL 입력 화면 구현 (URL 입력 → 썸네일 미리보기 → 학습 시작)
   - [x] 8.5 `YouTubeService` 단위 테스트 작성 (`YouTubeServiceTests.swift`)
 
-- [ ] 9. Task 9: 학습 진행 현황 (Progress) 구현
-  - [ ] 9.1 `FetchAchievementsUseCase.swift` 구현 (세션 목록, 배지, 과목별 통계 조회)
-  - [ ] 9.2 스트릭 업데이트 로직 구현 (SaveProgressUseCase 내 — 오늘 첫 세션 완료 시 +1)
-  - [ ] 9.3 배지 자동 부여 로직 구현 (과목별 정답률 80% 이상 시 AchievementEntity 생성)
-  - [ ] 9.4 `ProgressViewModel.swift` 구현 (세션 목록, 배지, 통계, 필터)
-  - [ ] 9.5 `ProgressView.swift` 구현 (스트릭, 정답률, 과목별 통계, 배지 그리드, 세션 목록)
-  - [ ] 9.6 Progress 단위 테스트 작성 (`ProgressViewModelTests.swift`)
+- [x] 9. Task 9: 학습 진행 현황 (Progress) 구현
+  - [x] 9.1 `FetchAchievementsUseCase.swift` 구현 (세션 목록, 배지, 과목별 통계 조회)
+  - [x] 9.2 스트릭 업데이트 로직 구현 (SaveProgressUseCase 내 — 오늘 첫 세션 완료 시 +1)
+  - [x] 9.3 배지 자동 부여 로직 구현 (과목별 정답률 80% 이상 시 AchievementEntity 생성)
+  - [x] 9.4 `ProgressViewModel.swift` 구현 (세션 목록, 배지, 통계, 필터)
+  - [x] 9.5 `ProgressView.swift` 구현 (스트릭, 정답률, 과목별 통계, 배지 그리드, 세션 목록)
+  - [x] 9.6 Progress 단위 테스트 작성 (`ProgressViewModelTests.swift`)
 
 - [ ] 10. Task 10: 에러 처리 및 오프라인 대응 구현
   - [ ] 10.1 `ErrorView.swift` 구현 (에러 유형별 아이콘, 메시지, 재시도/설정 이동 버튼)

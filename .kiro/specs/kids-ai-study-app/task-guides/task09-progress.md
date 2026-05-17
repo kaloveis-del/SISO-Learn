@@ -12,12 +12,12 @@
 
 ## 체크리스트
 
-- [ ] 9.1 `FetchAchievementsUseCase.swift` 구현
-- [ ] 9.2 스트릭 업데이트 로직 확인 (Task 7의 SaveProgressUseCase에 포함)
-- [ ] 9.3 배지 자동 부여 로직 구현
-- [ ] 9.4 `ProgressViewModel.swift` 구현
-- [ ] 9.5 `ProgressView.swift` 구현
-- [ ] 9.6 `ProgressViewModelTests.swift` 작성
+- [x] 9.1 `FetchAchievementsUseCase.swift` 구현
+- [x] 9.2 스트릭 업데이트 로직 확인 (Task 7의 SaveProgressUseCase에 포함)
+- [x] 9.3 배지 자동 부여 로직 구현
+- [x] 9.4 `ProgressViewModel.swift` 구현
+- [x] 9.5 `ProgressView.swift` 구현
+- [x] 9.6 `ProgressViewModelTests.swift` 작성
 
 ---
 
