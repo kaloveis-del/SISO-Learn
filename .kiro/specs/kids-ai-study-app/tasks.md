@@ -111,7 +111,7 @@
   - [x] 11.4 iPad 가로/세로 모드 레이아웃 대응 (horizontalSizeClass 활용)
   - [x] 11.5 로딩 인디케이터 통일 (`LoadingOverlayView.swift` — 쿠키 로딩 애니메이션)
   - [x] 11.6 스켈레톤 UI 구현 (`SkeletonView.swift` — 설명/Quiz 로딩 중)
-  - [ ] 11.7 앱 아이콘 및 런치 스크린 설정
+  - [x] 11.7 앱 아이콘 및 런치 스크린 설정
 
 - [ ] 12. Task 12: 테스트 완성 및 TestFlight 배포 준비
   - [ ] 12.1 전체 단위 테스트 커버리지 확인 (Domain 90%, ViewModel 80% 목표)
