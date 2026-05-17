@@ -12,17 +12,17 @@
 
 ## 체크리스트
 
-- [ ] 7.1 `LearningPhase` 열거형 (Task 6에서 이미 정의됨, 확인만)
-- [ ] 7.2 `StartLearningSessionUseCase.swift` 구현
-- [ ] 7.3 `SubmitAnswerUseCase.swift` 구현
-- [ ] 7.4 `RequestHintUseCase.swift` 구현
-- [ ] 7.5 `SaveProgressUseCase.swift` 구현
-- [ ] 7.6 `LearningSessionViewModel.swift` 구현
-- [ ] 7.7 `CookieLearningView.swift` 구현
-- [ ] 7.8 `SessionCompleteView.swift` 구현
-- [ ] 7.9 `HomeView.swift` 구현
-- [ ] 7.10 학습 세션 단위 테스트
-- [ ] 7.11 학습 흐름 통합 테스트
+- [x] 7.1 `LearningPhase` 열거형 (Task 6에서 이미 정의됨, 확인만)
+- [x] 7.2 `StartLearningSessionUseCase.swift` 구현
+- [x] 7.3 `SubmitAnswerUseCase.swift` 구현
+- [x] 7.4 `RequestHintUseCase.swift` 구현
+- [x] 7.5 `SaveProgressUseCase.swift` 구현
+- [x] 7.6 `LearningSessionViewModel.swift` 구현
+- [x] 7.7 `CookieLearningView.swift` 구현
+- [x] 7.8 `SessionCompleteView.swift` 구현
+- [x] 7.9 `HomeView.swift` 구현
+- [x] 7.10 학습 세션 단위 테스트
+- [x] 7.11 학습 흐름 통합 테스트
 
 ---
 

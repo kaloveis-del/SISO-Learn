@@ -67,18 +67,18 @@
   - [x] 6.8 `CookieCharacterView.swift` 구현 (홈 화면용 단독 캐릭터 표시)
   - [x] 6.9 쿠키 모듈 단위 테스트 작성 (`CookieViewModelTests.swift`, `CookiePersonaWrapperTests.swift`)
 
-- [ ] 7. Task 7: 대화형 학습 세션 구현
-  - [ ] 7.1 `LearningPhase` 열거형 정의 (greeting, explanation, quiz, answering, hintRequested, feedback, sessionComplete)
-  - [ ] 7.2 `StartLearningSessionUseCase.swift` 구현 (설명 + Quiz 동시 생성)
-  - [ ] 7.3 `SubmitAnswerUseCase.swift` 구현 (답변 평가 + QuizResult 생성)
-  - [ ] 7.4 `RequestHintUseCase.swift` 구현 (힌트 단계 클램핑 포함)
-  - [ ] 7.5 `SaveProgressUseCase.swift` 구현 (세션 저장 + 스트릭 업데이트 + 배지 확인)
-  - [ ] 7.6 `LearningSessionViewModel.swift` 구현 (단계 관리, 쿠키 연동, 1000자/3힌트 제한)
-  - [ ] 7.7 `CookieLearningView.swift` 구현 (쿠키 말풍선, Quiz 카드, 답변 입력, 진행 바)
-  - [ ] 7.8 `SessionCompleteView.swift` 구현 (쿠키 칭찬, 정답률, 홈 이동)
-  - [ ] 7.9 `HomeView.swift` 구현 (쿠키 상주, 과목 그리드, 난이도 선택)
-  - [ ] 7.10 학습 세션 단위 테스트 작성 (`LearningSessionViewModelTests.swift`)
-  - [ ] 7.11 학습 흐름 통합 테스트 작성 (`LearningFlowIntegrationTests.swift`)
+- [x] 7. Task 7: 대화형 학습 세션 구현
+  - [x] 7.1 `LearningPhase` 열거형 정의 (greeting, explanation, quiz, answering, hintRequested, feedback, sessionComplete)
+  - [x] 7.2 `StartLearningSessionUseCase.swift` 구현 (설명 + Quiz 동시 생성)
+  - [x] 7.3 `SubmitAnswerUseCase.swift` 구현 (답변 평가 + QuizResult 생성)
+  - [x] 7.4 `RequestHintUseCase.swift` 구현 (힌트 단계 클램핑 포함)
+  - [x] 7.5 `SaveProgressUseCase.swift` 구현 (세션 저장 + 스트릭 업데이트 + 배지 확인)
+  - [x] 7.6 `LearningSessionViewModel.swift` 구현 (단계 관리, 쿠키 연동, 1000자/3힌트 제한)
+  - [x] 7.7 `CookieLearningView.swift` 구현 (쿠키 말풍선, Quiz 카드, 답변 입력, 진행 바)
+  - [x] 7.8 `SessionCompleteView.swift` 구현 (쿠키 칭찬, 정답률, 홈 이동)
+  - [x] 7.9 `HomeView.swift` 구현 (쿠키 상주, 과목 그리드, 난이도 선택)
+  - [x] 7.10 학습 세션 단위 테스트 작성 (`LearningSessionViewModelTests.swift`)
+  - [x] 7.11 학습 흐름 통합 테스트 작성 (`LearningFlowIntegrationTests.swift`)
 
 - [ ] 8. Task 8: YouTube 연계 학습 구현
   - [ ] 8.1 `YouTubeService.swift` 구현 (extractVideoId, thumbnailURL)
