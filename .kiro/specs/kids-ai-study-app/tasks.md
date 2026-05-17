@@ -117,10 +117,10 @@
   - [x] 12.1 전체 단위 테스트 커버리지 확인 (Domain 90%, ViewModel 80% 목표)
   - [x] 12.2 속성 기반 테스트(PBT) 전체 실행 확인 (CP-1~CP-7)
   - [x] 12.3 전체 학습 흐름 통합 테스트 실행 (`LearningFlowIntegrationTests`)
-  - [ ] 12.4 iPad Air M1 / M5 시뮬레이터 테스트
-  - [ ] 12.5 App Store Connect 앱 등록 및 TestFlight 설정
-  - [ ] 12.6 내부 테스터(두 딸) 초대 및 TestFlight 배포
-  - [ ] 12.7 피드백 수집 및 버그 수정
+  - [x] 12.4 iPad Air M1 / M5 시뮬레이터 테스트
+  - [x] 12.5 App Store Connect 앱 등록 및 TestFlight 설정
+  - [x] 12.6 내부 테스터(두 딸) 초대 및 TestFlight 배포
+  - [x] 12.7 피드백 수집 및 버그 수정
 
 ## Task Dependency Graph
 
