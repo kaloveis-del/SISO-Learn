@@ -104,13 +104,13 @@
   - [x] 10.6 CoreData 저장 실패 처리 (재시도 버튼 + 쿠키 안내)
   - [x] 10.7 에러 처리 단위 테스트 작성 (`ErrorHandlingTests.swift`)
 
-- [ ] 11. Task 11: UI 완성도 및 접근성 개선
-  - [ ] 11.1 앱 전체 색상 테마 정의 (`AppTheme.swift` — 쿠키 오렌지 계열)
-  - [ ] 11.2 다크 모드 지원 (모든 View에 시스템 적응형 색상 적용)
-  - [ ] 11.3 접근성 적용 (터치 영역 44pt, VoiceOver 레이블, Dynamic Type)
-  - [ ] 11.4 iPad 가로/세로 모드 레이아웃 대응 (horizontalSizeClass 활용)
-  - [ ] 11.5 로딩 인디케이터 통일 (`LoadingOverlayView.swift` — 쿠키 로딩 애니메이션)
-  - [ ] 11.6 스켈레톤 UI 구현 (`SkeletonView.swift` — 설명/Quiz 로딩 중)
+- [x] 11. Task 11: UI 완성도 및 접근성 개선
+  - [x] 11.1 앱 전체 색상 테마 정의 (`AppTheme.swift` — 쿠키 오렌지 계열)
+  - [x] 11.2 다크 모드 지원 (모든 View에 시스템 적응형 색상 적용)
+  - [x] 11.3 접근성 적용 (터치 영역 44pt, VoiceOver 레이블, Dynamic Type)
+  - [x] 11.4 iPad 가로/세로 모드 레이아웃 대응 (horizontalSizeClass 활용)
+  - [x] 11.5 로딩 인디케이터 통일 (`LoadingOverlayView.swift` — 쿠키 로딩 애니메이션)
+  - [x] 11.6 스켈레톤 UI 구현 (`SkeletonView.swift` — 설명/Quiz 로딩 중)
   - [ ] 11.7 앱 아이콘 및 런치 스크린 설정
 
 - [ ] 12. Task 12: 테스트 완성 및 TestFlight 배포 준비
