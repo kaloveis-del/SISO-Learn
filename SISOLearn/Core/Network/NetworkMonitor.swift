@@ -1,19 +1,21 @@
 import Network
-import Combine
-import Foundation
+import SwiftUI
+import Observation
 
-final class NetworkMonitor: ObservableObject {
-
+@Observable
+final class NetworkMonitor {
     static let shared = NetworkMonitor()
 
-    @Published var isConnected: Bool = true
-    @Published var connectionType: ConnectionType = .unknown
+    var isConnected: Bool = true
+    var connectionType: ConnectionType = .unknown
 
     enum ConnectionType {
         case wifi, cellular, unknown
     }
 
+    @ObservationIgnored
     private let monitor = NWPathMonitor()
+    @ObservationIgnored
     private let queue = DispatchQueue(label: "com.sisolearn.networkmonitor")
 
     private init() {
@@ -32,7 +34,5 @@ final class NetworkMonitor: ObservableObject {
         monitor.start(queue: queue)
     }
 
-    deinit {
-        monitor.cancel()
-    }
+    deinit { monitor.cancel() }
 }
